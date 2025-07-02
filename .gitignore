@@ -1,0 +1,20 @@
+# Rust build artifacts
+/target
+**/*.rs.bk
+
+# CosmWasm build artifacts
+artifacts/
+schema/
+
+# Node modules (if you add a JS frontend)
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+
+# Local environment config
+.env
