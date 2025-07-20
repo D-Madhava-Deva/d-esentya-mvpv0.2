@@ -4,27 +4,6 @@ Abstract
 
 In an era of Web3 fatigue, speculative overreach, and declining public trust, the D. Esentya Protocol emerges as a multilayered, regenerative blockchain system that fuses symbolic meaning, technical rigor, and social sustainability. With its core pillars rooted in identity, reputation, decentralized governance, and a dual-token model ($D.Flow and $D.WTH), Esentya offers a path beyond extractive tokenomics and toward Dharma-aligned coordination. This whitepaper explores Esentya's full-stack architecture, covering consensus (PoW, PoS, PoWth, PoEsentya), token economy, real-world integration, and call to global collaboration.
 
-Contents
-
-Mission and Philosophy
-
-Identity and Reputation Infrastructure
-
-Dual Token Model: $D.Flow & $D.WTH
-
-Consensus: PoWth and PoEsentya
-
-Real-World Assets and Terra NFTs
-
-Governance through Pods and Dharma
-
-Geolocation and Proof-of-Presence
-
-Sustainable Proof-of-Work Infrastructure
-
-Symbolic Layer Architecture
-
-Call to Action
 
 1. Mission and Philosophy
 
