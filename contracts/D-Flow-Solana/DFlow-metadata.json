@@ -1,0 +1,11 @@
+{
+  "name": "D.EsentyaFlow",
+  "symbol": "D.Flow",
+  "mint_address": "36kiWhP1pxwRQ2fUwJj2SiTfopJhFTuBtHFWLjsKVps3",
+  "decimals": 9,
+  "max_supply": 1000000000,
+  "platform": "Solana",
+  "launched_on": "Pump.fun",
+  "token_type": "SPL",
+  "explorer": "https://solscan.io/token/36kiWhP1pxwRQ2fUwJj2SiTfopJhFTuBtHFWLjsKVps3"
+}
