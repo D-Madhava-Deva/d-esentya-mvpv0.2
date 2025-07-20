@@ -129,4 +129,3 @@ We invite symbolic architects, artists, and ritual designers to help:
 > Every DAO is a dream made karma.  
 > Every ID is a prayer made code.
 
-Join us at [discord.gg/FNwxqFgd](https://discord.gg/FNwxqFgd)
