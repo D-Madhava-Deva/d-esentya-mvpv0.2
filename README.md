@@ -1,71 +1,73 @@
-# Esentya MVP
-# 🪷 D-Esentya-Core-Overview
+# 🌐 D. Esentya Protocol — MVP Core Repository
 
-**Esentya Protocol** is a symbolic, decentralized infrastructure for identity, karma, and conscious DAOs.  
-This repository contains the **core overview, philosophy and roadmap** of the project — not the codebase.
+Welcome to the official MVP core repo for **D. Esentya Protocol**, a regenerative, soulbound, identity-first Web3 infrastructure rooted in Dharma, real-world presence, and decentralized worth.
 
-We are not selling hype. We are building dharma.
+This repository contains the **essential symbolic, technical and economic documents** for the Esentya architecture — including DAO tiers, cycles, tokenomics, contracts and our full whitepaper.
 
----
-
-## 🔍 What is Esentya?
-
-Esentya is a decentralized, reputation-based system where value is measured by offering, presence, and symbolic worth.
-
-It unites:
-
-- 🧠 **Esentya ID**: soulbound, reputation-bearing identity  
-- 🏛️ **DAO lineage**: tiered, stake-powered DAOs with mission  
-- 🔁 **Cycles**: symbolic flow of Dream → Karma → DAO → Truth  
-- 🔥 **Proof Systems**: of Worth, Stake, Work, Esentya  
-- 🧿 **$DFlow / $WTH**: Fungible & Soulbound tokens, linked by truth
+> 🪷 **“When Dharma is preserved, it preserves.”**
 
 ---
 
-## 📦 What’s Inside This Repo?
+## 📌 What is D. Esentya?
 
-This repo contains public, non-code resources:
+D. Esentya Protocol is a **multi-layered blockchain system** designed to:
 
-- `README.md`: current file  
-- `manifesto.md`: our symbolic foundation  
-- `roadmap.png`: visual roadmap (see /media)  
-- Links to social, token and soon-to-be DApp
+- 🧬 Anchor **identity and lineage** via Soulbound NFTs
+- 🧭 Encode **worth and ethics** in on-chain reputation (karma)
+- 🔁 Enable **service cycles**: Dream → Plan → Execute → Validate → Mint
+- 🧱 Build **regenerative DAOs** based on truth, offering and presence
+- 🌱 Support real-world assets, location-based logic and proof-of-worth
 
-We keep smart contracts, validators, frontend and CLI in private dev repositories for now.  
-They’ll go public once the first ID is minted, verified, and the DAO tier cycle is live.
-
----
-
-## 🌱 Current Status (July 2025)
-
-✅ $DFlow token launched on [Pump.fun](https://pump.fun)  
-🚧 Esentya ID mint mechanism in development  
-🚧 DAO creation + tier staking logic prototyped  
-🚧 Presence CLI, BLE/GPS layer, TruthGrant engine: WIP  
-🚧 Website + frontend interface under symbolic design
-
-We're building the MVP step-by-step.  
-Fully local, decentralized by design, and born to expand.
+From **$D.Flow** utility on Solana to the upcoming **$D.WTH** soulbound token on Cosmos, Esentya merges symbolic logic, cryptographic consensus and real economy infrastructure.
 
 ---
 
-## ✍️ Mantra
+## 📚 Key Documents
 
-> **Proof-of-Worth > Proof-of-Wealth**
-
-We believe value must be earned, not minted.  
-Presence is our consensus. Karma is our chain.
-
----
-
-## 📡 Contact & Presence
-
-- 🐦 Twitter: [@EsentyaID](https://x.com/EsentyaID)  
-- 🪙 Pump.fun Token: `36kiWhP1pxwRQ2fUwJj2SiTfopJhFTuBtHFWLjsKVps3`    
-- 🖥 Site (soon): https://d.esentya...
-- 📩 Email: dreamstruthdprotocol@gmail.com
+| 📄 File | 🧭 Description |
+|--------|----------------|
+| [`D-Esentya-Whitepaper.md`](./D-Esentya-Whitepaper.md) | Full technical and symbolic whitepaper, with references |
+| [`VISION.md`](./VISION.md) | Long-term vision for a global, dharmic Web8 |
+| [`CYCLES.md`](./CYCLES.md) | Esentya’s ritual and execution flow: Dream → Mint |
+| [`DAO-TIERS.md`](./DAO-TIERS.md) | DAO structure, tier logic and collaborative layers |
+| [`TOKENOMICS.md`](./TOKENOMICS.md) | Dual-token economy: $D.Flow (utility) + $D.WTH (worth) |
+| [`manifesto.md`](./manifesto.md) | Foundational symbolic and ethical call to action |
+| [`Roadmap.md`](./Roadmap.md) | MVP roadmap: identity, presence, DAO, worth |
+| [`RoadmapMidias.md`](./RoadmapMidias.md) | Images, visual assets and symbolic references |
 
 ---
 
-**This is not an app. It's a rebirth.**  
-Welcome to the cycle.
+## 🔗 Contracts
+
+- ✅ [`D-Flow-Solana`](./contracts/D-Flow-Solana) → Deployed token on [Pump.fun](https://pump.fun/coin/36kiWhP1pxwRQ2fUwJj2SiTfopJhFTuBtHFWLjsKVps3)
+- ⏳ `cw-dwth-cosmos` → WTH (Soulbound Worth Token) – coming soon
+- 🔐 Smart contracts in CosmWasm for: ID, Pods, RedPill, Staking, Services...
+
+---
+
+## 🛠 Folder Structure
+
+/
+├── contracts/ → $D.Flow + future CW contracts
+├── frontend/ → Decentralized identity UI (start-decent / lens)
+├── scripts/ → Contract deployment scripts
+├── media/ → Roadmap images and promotional graphics
+├── data/ → Oracle inputs, metadata, etc.
+
+🌎 Get Involved
+D. Esentya Protocol is being developed in an open, conscious, and living process. However, we are still laying the foundational infrastructure required for sustainable and verifiable collaboration:
+
+⚠️ Important Note: The protocol is currently in its Genesis stage. We are finalizing the launch of the first contracts for identity (Esentya ORIGIn) and the Mother DAO (DAO-DAO logic).
+Until those are deployed on-chain and active, all decisions and architecture are symbolically centralized under the founding guardian — to ensure an ethical and uncorrupted foundation.
+
+Meanwhile, you are invited to:
+📣 Create symbolic content, narratives, memes, and discussions around the Esentya vision
+
+🧭 Study the public files (README, Whitepaper, Cycles, Tiers, etc.) to understand the protocol
+
+📥 Follow the progressive activation of the DAO and smart contracts
+
+🛑 We do not offer financial advice nor promote any investment actions at this time
+
+✨ The Fair Launch — both technical and symbolic — will be a conscious milestone.
+All contributors of genuine symbolic value will be recognized in the future through $D.WTH staking and DAO participation.
