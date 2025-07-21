@@ -1,78 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
   <title>D. Esentya Protocol</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
-    body {
+    * {
       margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    html, body {
+      height: 100%;
       font-family: 'Helvetica Neue', sans-serif;
-      background: radial-gradient(circle, #0a0a0a 0%, #000000 100%);
-      color: #fdf6e3;
+      color: #fff;
+    }
+    body {
+      background: url('./assets/bg-cosmos.png') no-repeat center center fixed;
+      background-size: cover;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       text-align: center;
+      flex-direction: column;
+      padding: 2em;
     }
     header {
-      padding: 4rem 1rem 2rem;
+      background: rgba(0, 0, 0, 0.6);
+      padding: 2em;
+      border-radius: 1em;
+      box-shadow: 0 0 20px #fbd52d33;
     }
     h1 {
-      font-size: 2.7rem;
-      color: #ffd700;
-      margin-bottom: 0.5rem;
+      font-size: 2.5em;
+      margin-bottom: 0.5em;
+      letter-spacing: 1px;
     }
     p {
-      font-size: 1.2rem;
-      color: #bbb;
-      max-width: 700px;
-      margin: 0 auto;
+      font-size: 1.2em;
+      max-width: 600px;
+      margin: 0 auto 2em;
+      color: #ddd;
     }
-    .button {
+    a.button {
       display: inline-block;
-      background: #ffd700;
+      padding: 1em 2em;
+      background: #fbd52d;
       color: #000;
-      padding: 0.9rem 2rem;
-      border-radius: 8px;
       text-decoration: none;
+      border-radius: 8px;
       font-weight: bold;
-      margin-top: 2rem;
-      transition: all 0.3s ease;
+      margin-top: 1em;
+      transition: background 0.3s;
     }
-    .button:hover {
-      background: #fff58a;
+    a.button:hover {
+      background: #fff14a;
     }
-    .image-row {
+    .logos {
+      margin-top: 2em;
       display: flex;
       justify-content: center;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 2rem;
-      padding: 2rem;
+      gap: 2em;
     }
-    .image-row img {
-      max-height: 120px;
-    }
-    footer {
-      font-size: 0.9rem;
-      padding: 2rem 1rem;
-      color: #888;
+    .logos img {
+      height: 60px;
+      filter: drop-shadow(0 0 5px gold);
     }
   </style>
 </head>
 <body>
   <header>
     <h1>D. Esentya Protocol</h1>
-    <p>Identity, Worth & Dharma for a Regenerative Web3. Your actions are sacred. Your delivery is your reputation.</p>
-    <a class="button" href="https://github.com/D-Madhava-Deva/d-esentya-mvpv0.2/blob/main/D-Esentya-Whitepaper.md" target="_blank">📜 Read the Whitepaper</a>
+    <p>Identity, Worth & Dharma for a Regenerative Web3.  
+       A protocol born to serve. A network to elevate.</p>
+    <a class="button" href="https://github.com/D-Madhava-Deva/d-esentya-mvpv0.2/blob/main/D-Esentya-Whitepaper.md" target="_blank">
+      📜 Read the Whitepaper
+    </a>
+
+    <div class="logos">
+      <img src="https://raw.githubusercontent.com/D-Madhava-Deva/d-esentya-mvpv0.2/main/RoadmapMidias/AF1D8A68-8F9B-4E19-8E3E-EE28ABAD6507.png" alt="Esentya Logo" />
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" />
+    </div>
   </header>
-
-  <section class="image-row">
-    <img src="https://raw.githubusercontent.com/D-Madhava-Deva/d-esentya-mvpv0.2/main/RoadmapMidias/AF1D8A68-8F9B-4E19-8E3E-EE28ABAD6507.png" alt="Esentya Roadmap">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo">
-  </section>
-
-  <footer>
-    Fair Launch of $D.Flow — No financial advice. DYOR.<br>
-    © 2025 D. Esentya Protocol. All rights reserved.
-  </footer>
 </body>
 </html>
