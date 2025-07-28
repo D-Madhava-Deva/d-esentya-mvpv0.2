@@ -126,7 +126,6 @@ To help co-create:
 - Oracle of TruthGrant
 
 > 🌱 Build with purpose. Mint with presence.  
-> Join us: [discord.gg/FNwxqFgd](https://discord.gg/FNwxqFgd)
 
 ---
 
